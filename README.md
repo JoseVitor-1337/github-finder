@@ -4,10 +4,6 @@
 
 ## Website to find github profiles
 
-![It-Logger-System](https://github.com/JoseVitor-1337/github-finder/blob/master/captured.gif)
-
----
-
 ## Features and concepts used
 
 <span style="font-size:1.1em">Web</span>.
