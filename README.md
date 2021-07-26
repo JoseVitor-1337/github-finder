@@ -15,7 +15,7 @@
 
 <br />
 
-## How i start this site?
+## How do I start this site?
 
 <br />
 
