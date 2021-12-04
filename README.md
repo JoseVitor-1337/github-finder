@@ -1,10 +1,8 @@
 # Github Finder
 
----
-
-## Website to find github profiles
-
 ## Features and concepts used
+
+<br />
 
 <span style="font-size:1.1em">Web</span>.
 
@@ -15,7 +13,7 @@
 
 <br />
 
-## How do I start this site?
+### How do I start this site?
 
 <br />
 
