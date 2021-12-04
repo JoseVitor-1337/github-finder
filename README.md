@@ -1,6 +1,6 @@
 # Github Finder
 
-## Features and concepts used
+### Features and concepts used
 
 <br />
 
