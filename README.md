@@ -2,8 +2,6 @@
 
 ### Features and concepts used
 
-<br />
-
 <span style="font-size:1.1em">Web</span>.
 
 - React.js
@@ -11,11 +9,7 @@
 - Context
 - github API
 
-<br />
-
 ### How do I start this site?
-
-<br />
 
 ### Prerequisites
 
@@ -23,7 +17,6 @@
 
 > Need have **git** installed [Go Here to install](https://git-scm.com/downloads)
 
-<br />
 
 ### Follow theses steps
 
